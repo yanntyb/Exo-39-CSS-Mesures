@@ -1,0 +1,10 @@
+html {
+    font-size: 62.5%;
+}
+
+.container {
+    background-color: darkseagreen;
+    border: dashed 2px lawngreen;
+    width: 20rem;
+    height: 20rem;
+}
